@@ -5,6 +5,10 @@ Small utility program to help calculate relative dimensions.
 This small program allows you to enter two numbers as a reference ratio, then  
 change either number and easily see the corresponding dimension.  
 
+## Screenshot
+Looks good.  
+<img width="273" height="101" src="https://sweptthr.one/img/arh.png"/>
+
 ## Installation and Running
 Check the Releases tab on the right and download it.  
 I believe you need at least .NET 10.0 Runtime.  
